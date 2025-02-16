@@ -1,4 +1,3 @@
-# apnacollege-demo
-This is my first Git repository.
-<br>
+# apnacollege.demo
+This is my first Git Repository
 Author-Shahid Ansari
