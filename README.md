@@ -1,4 +1,4 @@
-# apnacollege.demo
+# apnacollege-demo
 This is my first Git Repository
 <br>
 Author-Shahid Ansari
